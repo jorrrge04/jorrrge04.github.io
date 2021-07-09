@@ -1,0 +1,10 @@
+div{
+  width: 700px;
+  height: 500px;
+  border-style: dashed;
+  border-width: 1px;
+  border-color: gray;
+  padding: 10px;
+  margin: 10px 10px;
+  float: left;
+}
